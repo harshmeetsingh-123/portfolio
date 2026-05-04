@@ -1,0 +1,12 @@
+---
+title: "Singh_decision_log"
+editor: visual
+---
+
+# Decision Log 
+
+## Assignment 08 – Spatial Data Decisions
+
+**Decision 1: CRS choice (Alaska Albers)** I used the Alaska Albers projection because it preserves area and is more appropriate for spatial joins in Alaska than latitude/longitude. Using a geographic CRS could distort spatial relationships and produce incorrect joins.
+
+**Decision 2: st_within vs st_intersects** I chose `st_within` because I wanted to assign each point strictly to the polygon it falls inside. `st_intersects` would include points that merely touch boundaries, which could lead to duplicate or ambiguous matches.
