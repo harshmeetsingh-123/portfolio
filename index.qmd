@@ -5,6 +5,8 @@ editor: visual
 
 ## Course Lessons
 
-[Intro to Spatial Data](../intro-to-spatial-data.html)
+### Table of Contents
 
-[Singh Decision Log](../Singh_decision_log.html)
+[Intro to Spatial Data](assignments/intro-to-spatial-data.html)
+
+[Singh Decision Log](assignments/Singh_decision_log.html)
