@@ -3,7 +3,7 @@ title: "Singh_decision_log"
 editor: visual
 ---
 
-# Decision Log 
+# Decision Log
 
 ## Assignment 08 – Spatial Data Decisions
 
