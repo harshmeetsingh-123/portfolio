@@ -5,7 +5,9 @@ editor: visual
 
 ## Course Lessons
 
-### Table of Contents
+### Table of Contents (Harshmeet Singh)
+
+Here are the links to a few of the assignments completed throughout this course
 
 [Intro to Spatial Data](assignments/intro-to-spatial-data.html)
 
